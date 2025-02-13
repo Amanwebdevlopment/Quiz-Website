@@ -1,0 +1,12 @@
+#mainPage{
+    padding-top:3em ;
+}
+.heading{
+    background-color: rgb(186, 120, 173);
+}
+
+#quizTest{
+    background-color: #230080;
+    padding-top:4em;
+    height: 100vh;
+}
